@@ -8,15 +8,63 @@
 The methods you use to evaluate Yelp reviews are similar to the methods scientists use to screen research studies. Here are just a few examples:
 
 
-## Yelp Review or Research Study
 
-| Yelp Review | Research Study |
-| ----------- | ------------- | 
-| How many reviews has this yelper written? | How many studies has this researcher conducted? | 
-| Does this review have typos? Does this study have mathematical errors? | 
-| Is this review talking about something irrelevant, like available parking? | Is this study about my specific research question? AKA does it include outcomes of importance? | 
-| Does it seem like this yelper was paid for a good review? | Who sponsored this research? AKA are there conflicts of interest? | 
-| When was this review conducted? Has anything changed since then? | Has any key research come forward since the study? | 
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+<br>
+
+<table border="1" width="100%">
+<thead>
+<tr>
+<td colspan="2">
+<h1>Yelp Review or Research Study
+</h1>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> <h3> Yelp Review </h3>  </td>
+<td> <h3> Research Study </h3>  </td>
+</tr>
+<tr>
+<td> How many reviews has this yelper written?  </td>
+<td> How many studies has this researcher conducted?  </td>
+</tr>
+<tr>
+<td> Does this review have typos?   </td>
+<td>  Does this study have mathematical errors?  </td>
+</tr>
+<tr>
+<td> Is this review talking about something irrelevant, like available parking?  </td>
+<td> Is this study about my specific research question? AKA does it include outcomes of importance?   </td>
+</tr>
+<tr>
+<td>  Does it seem like this yelper was paid for a good review?  </td>
+<td>  Who sponsored this research? AKA are there conflicts of interest?  </td>
+</tr>
+<tr>
+<td>   When was this review conducted? Has anything changed since then?  </td>
+<td> Has any key research come forward since the study?   </td>
+</tr>
+</tbody>
+</table>
 
 Some of these questions are easy to answer.  You can notice typos and see a Yelper’s review history right away. Other questions are harder to answer. How do you know if something has changed since most of the positive reviews were posted? How can you tell if a reviewer is related to the owner of the donut shop?  
 
