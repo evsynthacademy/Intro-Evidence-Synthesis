@@ -1,6 +1,6 @@
-title: R Basics
-description: Introduction to R
-modules: [About Course, Getting Started, Getting Data, Tidy Data, Graphics, Data Modeling, Publishing]
+title: Introduction to Evidence Synthesis
+description: Introduction to Evidence Synthesis
+modules: [Who we are, What is Evidence Synthesis, Using Evidence Synthesis, Systematic Reviews, Is This Right for Me]
 signups:
 js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
  
