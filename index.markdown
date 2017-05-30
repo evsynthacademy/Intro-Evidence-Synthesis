@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-# So you want to conduct a systematic review?  
+## So you want to conduct a systematic review?  
 
 Here at the Center for Evidence Synthesis in Health, we’re always looking for ways to help members of our community make informed decisions. 
 
