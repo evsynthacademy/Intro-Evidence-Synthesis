@@ -68,7 +68,7 @@ The Center for Evidence Synthesis in Health!  We’re here to help you design an
 
 <div class="content-box-red">
 
-***Warning***: *Systematic Reviews can only examine what* ***existing research*** *knows about a particular question. They do not represent the "ultimate truth" for any topic. Be sure to use other tools when making important decisions.*
+<div class= "bold">  Warning </div>: *Systematic Reviews can only examine what* ***existing research*** *knows about a particular question. They do not represent the "ultimate truth" for any topic. Be sure to use other tools when making important decisions.*
 
 </div>
   
