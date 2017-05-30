@@ -18,6 +18,14 @@
 }
 
 
+.content-box-red {
+    background-color: #f4e1e1;
+    border: 2px solid #a50c0c;
+    padding: 15px 20px;
+    margin: 20px 0;
+}
+
+
 
 .quiz-single, .quiz-multiple, .quiz-text {
   background-color: #F0F0F0;

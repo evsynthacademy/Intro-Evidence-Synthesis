@@ -1,4 +1,36 @@
 ---
-  title: "What Systematic Reviews CANNOT Do"
+  title: "Can't Do"
 ---
 
+# What Systematic Reviews CANNOT Do
+
+So, a systematic review can help you pick a donut shop and evaluate the benefits of Omega 3 fatty acids, but it’s not a magical process for answering any question. How do you know a systematic review is the best approach for you?
+
+Let’s keep with the donut shop analogy, and add in a scientific example. The chart below illustrates the number of published research studies about pain in newborn babies between 1939 and 2014.
+
+
+<center>
+<img src="{{site.baseurl}}/img/plot.png" >
+</center>
+
+
+You’ll see in this chart that there weren’t a lot of articles about pain in newborn babies until about 1987, when Anand & Hickey published an important paper about newborn babies and pain. If we wanted to conduct a systematic review in 1986 about pain in newborn babies, we wouldn't have a lot of material.
+
+That’s why, before you invest too much time in a systematic review, your first step is making sure there’s enough existing research about the topic you care about. Because if no one has written about your question, or only a few people have written about it, you won’t have enough evidence to synthesize.
+
+## A systematic review is the wrong tool for your question if:
+
+
+### 1. Research on your topic doesn’t exist
+
+In the above chart, you can see that before 1948, PubMed has no evidence of published literature about pain in newborn babies. So, you can’t synthesize research from before 1948 because it doesn’t exist. This would be similar to a case when no one has written a Yelp review about a new donut shop OR there are no donut shops in your town. 
+
+Remember- if you can’t find yelp reviews about donuts it doesn’t necessarily mean there are no donut shops in your town. It just means that there’s no record of someone evaluating those donut shops. Similarly, your research topic may be important and data may exist, but no one has done a full study or published the findings. 
+
+### 2. There’s not enough research on your question
+You can’t make an informed decision if a donut shop has only two reviews. The same is true about research on newborn babies and pain. The number of publications on this topic were limited until 1987, when a key paper ushered in a new area of research on newborn pain. If we tried to synthesize the research written before 1987, we wouldn’t have enough information to make an informed decision. 
+
+
+### 3. Your question can’t be answered with evidence synthesis
+
+Yelp reviews can’t tell you if your mother wants a boston creme or a chocolate donut. In the same way, we can learn a lot about how infant pain has been studied since 1987 by synthesizing that existing research, but we’re less likely to find the answer to more philosophical or historical questions like- “Why did it take researchers until 1987 to realize newborn babies experience pain?

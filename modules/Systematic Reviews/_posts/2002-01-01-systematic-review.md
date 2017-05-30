@@ -1,6 +1,8 @@
 ---
-  title: "What is a Systematic Review?"
+  title: "Systematic Reviews"
 ---
+
+# What is a Systematic Review?
 
 
 A Systematic Review is a type of evidence synthesis. 

@@ -1,5 +1,5 @@
 ---
-  title: "Evaluating Yelp reviews vs evaluating research studies"
+  title: "Yelp vs Research"
 ---
 
 # Evaluating Yelp reviews vs research studies
@@ -33,15 +33,15 @@ tr:nth-child(even) {
 <thead>
 <tr>
 <td colspan="2">
-<h1>Yelp Review or Research Study
-</h1>
+<h3>Yelp Review or Research Study
+</h3>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td> <h3> Yelp Review </h3>  </td>
-<td> <h3> Research Study </h3>  </td>
+<td> <h4> Yelp Review </h4>  </td>
+<td> <h4> Research Study </h4>  </td>
 </tr>
 <tr>
 <td> How many reviews has this yelper written?  </td>
