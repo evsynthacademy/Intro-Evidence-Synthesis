@@ -13,17 +13,17 @@ So, you think you want to conduct a systematic review!  Here are answers to some
 		
 The time it takes to conduct a systematic review will depend on how much evidence exists, the kind of question you’re asking, and how much help you have, but here are some examples to get you started: 
 
-#### Simple question and fast turn around: about four months
+  - **Simple question and fast turn around: about four months**
 
-The Center can conduct “rapid turnaround” systematic reviews in about four months. These reviews require a lot of effort from our team and are only possible if the systematic review is fairly simple.
+    The Center can conduct “rapid turnaround” systematic reviews in about four months. These     reviews require a lot of effort from our team and are only possible if the systematic        review is fairly simple.
 
-#### A typical timeline: about a year
+  - **A typical timeline: about a year**
 
-When the Center conducts a systematic review for the Agency for Healthcare Research and Quality (AHQR), it takes around 42 to 58 weeks.
+    When the Center conducts a systematic review for the Agency for Healthcare Research and      Quality (AHQR), it takes around 42 to 58 weeks.
 
-### Conducting a systematic review alone: 10 years
+  - **Conducting a systematic review alone: 10 years**
 
-We’ve met one researcher who’s been a conducting systematic review on his own for more than a decade. Don’t let this be you! Partner with the Center for Evidence Synthesis in Health.
+    We’ve met one researcher who’s been a conducting systematic review on his own for more       than a decade. Don’t let this be you! Partner with the Center for Evidence Synthesis in      Health.
 
 ### 2. What kind of team do I need?
 		
