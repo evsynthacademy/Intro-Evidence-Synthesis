@@ -11,7 +11,7 @@ Systematic reviews are among the more rigorous forms of evidence synthesis. In g
 
 - Answer carefully constructed questions.
 - Use a clear, transparent and rigorous protocol for selecting, evaluating and extracting evidence. 
-- Consider the role of subjectivity and bias in their results
+- Consider the role of subjectivity and bias in their results.
 - Involve stakeholders in the process.  
 
 In an article analyzing the different types of evidence synthesis, one academic defined a systematic review as a process that-
