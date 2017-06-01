@@ -2,7 +2,7 @@
   title: "Yelp vs Research"
 ---
 
-# Evaluating Yelp reviews vs research studies
+## Evaluating Yelp reviews vs research studies
 
 
 The methods you use to evaluate Yelp reviews are similar to the methods scientists use to screen research studies. Here are just a few examples:
