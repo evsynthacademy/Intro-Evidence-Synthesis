@@ -2,7 +2,7 @@
   title: "Yelp vs Research"
 ---
 
-## Evaluating Yelp reviews vs research studies
+## Evaluating Yelp Reviews vs Research Studies
 
 
 The methods you use to evaluate Yelp reviews are similar to the methods scientists use to screen research studies. Here are just a few examples:
@@ -27,7 +27,7 @@ tr:nth-child(even) {
 }
 </style>
 
-<br>
+
 
 <table border="1" width="100%">
 <thead>
@@ -67,7 +67,7 @@ tr:nth-child(even) {
 </table>
 
 <br>
-<br>
+
 
 
 Some of these questions are easy to answer.  You can notice typos and see a Yelper’s review history right away. Other questions are harder to answer. How do you know if something has changed since most of the positive reviews were posted? How can you tell if a reviewer is related to the owner of the donut shop?  
