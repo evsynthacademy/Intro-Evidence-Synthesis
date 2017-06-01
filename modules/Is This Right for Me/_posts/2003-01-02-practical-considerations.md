@@ -72,15 +72,3 @@ The Center for Evidence Synthesis in Health!  We’re here to help you design an
 
 
 
-
-<div class="content-box-red">
-
-<b>Warning </b>: <i> Systematic Reviews can only examine what</i> <b>existing research</b> <i>knows about a particular question. They do not represent the "ultimate truth" for any topic. Be sure to use other tools when making important decisions.</i>
-
-</div>
-  
-
-
-The “other tools” here are Evidence Synthesis Methods. Read more about these tools here. [Link to future course on Evidence Synthesis Methods]
-
-[include Stacey video on pain in infants and other anecdotes about being careful]
