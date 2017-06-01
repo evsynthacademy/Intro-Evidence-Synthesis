@@ -29,28 +29,35 @@ The time it takes to conduct a systematic review will depend on how much evidenc
 		
 Here are the types of people you’ll need to conduct a systematic review:
 
-#### Project lead/method expert
-This person oversees the process and has expertise in the methods for conducting a systematic review. In some cases you might have two people fill this role- a project lead and a method expert.
+  - **Project lead/method expert**
 
-#### Librarian
-You’ll need a librarian to help you design your “search strategy.” This involves everything from using the right search terms in electronic databases to knowing what databases/sources to use. 
+    This person oversees the process and has expertise in the methods for conducting a           systematic review. In some cases you might have two people fill this role- a project         lead and a method expert.
 
-#### Clinical/subject area experts
-These people are experts on the question you’re exploring. They help you understand the general landscape of research on this topic and evaluate which research is relevant. 
+  - **Librarian**
+  
+    You’ll need a librarian to help you design your “search strategy.” This involves             everything from using the right search terms in electronic databases to knowing what         databases/sources to use. 
 
-#### Research assistant(s)
-Research assistants do a lot of the grunt work for a systematic review. Their tasks include data extraction, literature screening, data analysts, and strength of evidence/risk of bias assessments.
+  - **Clinical/subject area experts**
+  
+    These people are experts on the question you’re exploring. They help you understand the      general landscape of research on this topic and evaluate which research is relevant. 
+
+  - **Research assistant(s)**
+  
+    Research assistants do a lot of the grunt work for a systematic review. Their tasks          include data extraction, literature screening, data analysts, and strength of                evidence/risk of bias assessments.
 
 You might also want to include these people in your process:
 
-#### Stakeholders
-Stakeholders can play a valuable role in helping you shape your initial question and assess the relevancy of your results.
+  - **Stakeholders**
+  
+    Stakeholders can play a valuable role in helping you shape your initial question and         assess the relevancy of your results.
 
-#### Data visualization experts
-Data visualization experts can help you present your findings in a compelling and clear format. 
+  - **Data visualization experts**
+  
+    Data visualization experts can help you present your findings in a compelling and clear      format. 
 
-#### Dissemination partners
-Once you’ve finished your systematic review, you’ll want to share your results. Dissemination partners can help you spread the word about your findings.
+  - **Dissemination partners**
+  
+    Once you’ve finished your systematic review, you’ll want to share your results.              Dissemination partners can help you spread the word about your findings.
 
 ### 3. How much does it cost?
 
