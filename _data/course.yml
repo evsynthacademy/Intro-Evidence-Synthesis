@@ -1,6 +1,6 @@
 title: Introduction to Evidence Synthesis
 description: Introduction to Evidence Synthesis
-modules: [Who we are, What is Evidence Synthesis, Using Evidence Synthesis, Systematic Reviews, Is This Right for Me]
+modules: [Who we are, What is Evidence Synthesis, Systematic Reviews, Using Systematic Reviews, Is This Right for Me]
 signups:
 js: [js/jquery.quiz.js, js/mustache.min.js, js/quiz-app.js]
  
