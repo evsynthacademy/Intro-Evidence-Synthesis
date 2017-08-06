@@ -15,6 +15,6 @@ For now, let’s look at how the Center for Evidence Synthesis in Health has use
 			<div class="title">
 				Next module:
 			</div>
-			<a rel="next" class="next" href="{{ site.baseurl }}{{ next_post.url }}"> {{ next }} Using Systematic Reviews
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/is%20this%20right%20for%20me/cannot/> {{ next }} Using Systematic Reviews
 			</a>
 		</div>
