@@ -15,11 +15,14 @@ Systematic reviews are among the more rigorous forms of evidence synthesis. In g
 - Consider the role of subjectivity and bias in their results
 - Involve stakeholders in the process.  
 
-The Agency for Healthcare Quality and Research (AHRQ), which sponsors the creation of systematic reviews to help public and private organizations improve the quality of healthcare, defines systematic reviews as:
+The Agency for Healthcare Quality and Research (AHRQ), which sponsors the creation of systematic reviews to help public and private organizations improve the quality of healthcare, <a href="https://effectivehealthcare.ahrq.gov/ehc/products/628/2480/thromboembolism-update-report-170622.pdf" target="_blank">defines systematic reviews as</a>:
 
 > “...the building blocks underlying evidence-based practice; they focus attention on the strength and limits of evidence from research studies about the effectiveness and safety of a clinical intervention.”
 
-AHRQ says systematic reviews are useful because:
+
+<a href="https://effectivehealthcare.ahrq.gov/ehc/products/628/2480/thromboembolism-update-report-170622.pdf" target="_blank">AHRQ says systematic reviews are useful because</a>
+
+
 
 > “In the context of developing recommendations for practice, systematic reviews can help clarify whether assertions about the value of the intervention are based on strong evidence from clinical studies.” 
 

@@ -16,7 +16,7 @@ Maybe a less complicated approach to evidence synthesis could fit your needs. Ta
 
 #### I don’t want to conduct a systematic review, but I want to learn more.
 
-Check out our other courses,[ visit our website](https://www.brown.edu/academics/public-health/research/evidence-synthesis-in-health/), or contact us.
+Check out our other courses,[ visit our website](https://www.brown.edu/academics/public-health/research/evidence-synthesis-in-health/).
 
 ##### Other Resources
 

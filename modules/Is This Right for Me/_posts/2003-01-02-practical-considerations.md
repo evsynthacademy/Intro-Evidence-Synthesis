@@ -38,9 +38,10 @@ Data visualization experts can help you present your findings in a compelling an
     - **Dissemination partners**<br>
 Once you’ve finished your systematic review, you’ll want to share your results. Dissemination partners can help you spread the word about your findings.
 3. **How much does it cost?**<br>
-The cost depends on how complicated your systematic review is, how quickly you need to get it done, and how big your team is. 
+The cost depends on how complicated your systematic review is, how quickly you need to get it done, and how big your team is.
 
-To give you a rough estimate, [in a 2017 study that analyzed the time it took to conduct and publish a systematic review](http://bmjopen.bmj.com/content/7/2/e012545#T2), researchers found that the average estimated time was 67.3 weeks. So, you can make a rough estimate of your costs based on the hourly rates of your team members. 
+To give you a rough estimate, the federal government pays about $250,000- $500,000 for a systematic review. But don’t be intimidated by that price tag. You can conduct a less rigorous systematic review, perhaps with the help of volunteers or interns, for less money.
+
 
 
 <div class="content-box-red">
