@@ -1,4 +1,4 @@
-x---
+---
   title: "Practical Considerations"
 ---
 
@@ -7,7 +7,7 @@ x---
 
 Here are answers to some practical questions about conducting a systematic review:
 
-Remember, each systematic review is different depending on the question you’re asking and how much evidence exists, so be sure to talk through your specific situation with the Center for Evidence Synthesis in Health before you make any big plans.
+Remember, each systematic review is different depending on the question you’re asking and how much evidence exists.
 
 1. **How long does it take to conduct a systematic review?**<br>
 The time it takes to conduct a systematic review will depend on how much evidence exists, the kind of question you’re asking, and how much help you have, but here are some examples to get you started: 
