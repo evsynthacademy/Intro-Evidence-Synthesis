@@ -13,7 +13,7 @@ For now, let’s look at how the Center for Evidence Synthesis in Health has use
 
 
 
-<div class="pagination-section">
+<div class="pagination-section" style="text-align: right">
 			<div class="title">
 				Next module:
 			</div>
