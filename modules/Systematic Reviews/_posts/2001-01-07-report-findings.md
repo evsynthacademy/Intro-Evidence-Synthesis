@@ -11,10 +11,12 @@ For more details about the steps of a systematic review, you can check out our c
 For now, let’s look at how the Center for Evidence Synthesis in Health has used systematic reviews to answer important clinical questions. 
 
 
+
+
 <div class="pagination-section">
 			<div class="title">
 				Next module:
 			</div>
-			<a rel="next" class="next" href="{{ site.baseurl }}/modules/is%20this%20right%20for%20me/cannot/> {{ next }} Using Systematic Reviews
+			<a rel="next" class="next" href="{{ site.baseurl }}/modules/using%20systematic%20reviews/how-can-they-help/"> {{ next }} Using Systematic Reviews
 			</a>
 		</div>
