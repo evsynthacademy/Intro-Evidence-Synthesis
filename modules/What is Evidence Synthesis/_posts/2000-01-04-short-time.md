@@ -9,13 +9,12 @@ Systematic reviews, especially those that include meta-analysis, require extensi
 Depending on your question, you might also use these types of evidence synthesis:
 
 - **Scoping review**: Offers a summary of existing evidence by examining the size and scope of literature on a particular topic to understand if enough evidence exists to conduct a systematic review.
-- **Evidence map**: Similar to a scoping review, but includes an analysis of what type of studies are missing from a body of evidence by identifying gaps and recommending new areas of research. Our colleague Stacey Springs is using evidence mapping in a project with the Arts and Health Research Network. 
+- **Evidence map**: Similar to a scoping review, but includes an analysis of what type of studies are missing from a body of evidence by identifying gaps and recommending new areas of research.  An evidence map can also give a general overview of existing study results. 
 
-In the world of evidence synthesis, some of these terms are used interchangeably, which can be confusing.  
+Other terms you might encounter include: “mixed study review,” “critical review,” “systematized review,” “literature review” and “state of the art review.” In the world of evidence synthesis, some of these words are used interchangeably and their use has changed over time. This can be confusing, even to experts from different backgrounds who learned slightly different words depending on their field or where they went to school. At this point, don’t worry too much about the precise definitions of these different approaches. It’s really more of an academic debate than a practical concern. 
 
-<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1471-1842.2009.00848.x/full" target="_blank">To see how one academic explained the differences between 14 different approaches to reviewing and synthesizing information, take a look at this paper</a>.
 
-Now that we know evidence synthesis can take various forms, let’s talk about the gold standard for evidence synthesis, the type we typically conduct at the CESH: a systematic review.
+Now that we know evidence synthesis can take various forms, let’s talk about the gold standard for evidence synthesis, the type we typically conduct at CESH: a systematic review.
 
 
 <div class="pagination-section" style="text-align: right">
