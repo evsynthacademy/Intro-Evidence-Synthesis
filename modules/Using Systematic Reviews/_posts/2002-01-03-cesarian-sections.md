@@ -24,7 +24,7 @@ There’s a fair amount of scientific evidence indicating that pregnant women wh
 2. Included a comparison group of  women who were not overweight or obese before they became pregnant.
 3. Presented data that could be used to calculate a mother’s level of obesity and her likelihood of cesarean delivery. 	
 
-Researchers took the remaining studies and extracter the data that were related to a mother’s weight and her likelihood of cesarean delivery. They then combined the data from all of the studies to calculate an overall estimate of the likelihood an overweight, obese, or severely obese women would get a cesarean section compared to a pregnant women in the normal weight range. 
+Researchers took the remaining studies and extracted the data that were related to a mother’s weight and her likelihood of cesarean delivery. They then combined the data from all of the studies to calculate an overall estimate of the likelihood an overweight, obese, or severely obese women would get a cesarean section compared to a pregnant women in the normal weight range. 
 
 **Answer**: [Once researchers combined and analyzed the data](https://www.ncbi.nlm.nih.gov/pubmed/17716296), they found that the risk of getting a cesarean section was: 
 
