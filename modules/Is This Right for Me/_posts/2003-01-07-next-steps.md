@@ -4,15 +4,17 @@
 
 ## Next Steps
 
+<br>
+
 Now that you’ve learned about systematic reviews, what do you want to do next?
 
 
 <form action="/action_page.php" method="get">
   <input type="checkbox" name="SR" value="started"> <b>I’m ready to get started! </b> <br>
-You know what a systematic review is, you think it can help you answer an important  question, and you have the time and resources to make it happen. Dive in and take our course on how to conduct a systematic review. <br>
+You know what a systematic review is, you think it can help you answer an important  question, and you have the time and resources to make it happen. Dive in and take our course on how to conduct a systematic review. <br><br>
   <input type="checkbox" name="SR" value="st" > <b>A systematic review is too involved for my needs, but I’m excited about evidence synthesis.</b> <br> Maybe a less complicated approach to evidence synthesis could fit your needs. Review the description of other types of evidence synthesis again and check out this course on evidence mapping. 
 <br>
-  <input type="checkbox" name="SR" value="knowledge" > <b>I don’t want to conduct a systematic review, but I want to learn more.</b>  <br> 
+  <input type="checkbox" name="SR" value="knowledge" > <b>I don’t want to conduct a systematic review, but I want to learn more.</b>  <br> <br>
 </form>
 Check out our other courses,[ visit our website](https://www.brown.edu/academics/public-health/research/evidence-synthesis-in-health/).
 

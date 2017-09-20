@@ -4,6 +4,8 @@
 
 ## What if you don’t have the time and resources for a systematic review?
 
+<br>
+
 Systematic reviews, especially those that include meta-analysis, require extensive time and resources. If you are short on either of these, a **rapid review** might meet your needs. It’s an abbreviated form of a systematic review that is less comprehensive but still follows a scientific approach to gathering and synthesizing information. 
 
 Depending on your question, you might also use these types of evidence synthesis:
