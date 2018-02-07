@@ -3,10 +3,10 @@
 ---
 
 
-##  A systematic review is the wrong tool for your question if:
+##  A systematic review is the wrong tool for your question if:<br>
 
 1. **Research on your topic doesn’t exist**<br>
-In the above chart, you can see that before 1948, PubMed has no evidence of published literature about pain in newborn babies. So, you can’t synthesize research from before 1948 because it doesn’t exist. <br>
+In the chart on the previous page, you saw that before 1948, PubMed has no evidence of published literature about pain in newborn babies. So, you can’t synthesize research from before 1948 because it doesn’t exist. <br>
 Remember, If you can’t find research on these topics, it doesn’t necessarily mean no one has asked these questions, it just means no one has done a full study or published the findings.<br>
 2. **There’s not enough research on your question**<br>
 The number of publications on the topic of newborn babies and pain were limited until 1987, when the Anand & Hickey paper ushered in a new area of research on newborn pain. If we tried to synthesize the research written before 1987, we wouldn’t have enough information to make an informed decision. <br>
