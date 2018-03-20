@@ -17,9 +17,6 @@
 				</li>
 			</ul>	
 			<ul class="nav navbar-nav">
-				<li class="p2pu-logo">
-					<a class="p2pu-tab" href="https://evsynthacademy.github.io/"><img src="{{ site.baseurl }}/img/logo.jpg" alt="{{ site.title }}" /></a>
-				</li>
 				{% for module in site.data.course.modules %}
 					{% assign first_post = site.categories[module]|reverse|first %}
 					<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
