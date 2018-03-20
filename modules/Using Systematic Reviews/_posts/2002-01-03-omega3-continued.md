@@ -9,7 +9,7 @@
 
 **Answer**: After looking at all of the available evidence, [CESH found](https://www.effectivehealthcare.ahrq.gov/ehc/products/609/2262/fatty-acids-cardiovascular-disease-report-160913.pdf) that omega-3 fatty acids improved some “intermediate” outcomes (like lower triglycerides and low-density lipoproteins cholesterol), but found little evidence that omega-3 fatty acids actually contribute to a reduction in heart attacks and strokes.
 
-#### But wait a minute, why have I seen news headlines about omega-3 fatty acids preventing heart attacks? And why did my doctor tell me to take fish oil pills to protect my health?
+<i>But wait a minute, why have I seen news headlines about omega-3 fatty acids preventing heart attacks? And why did my doctor tell me to take fish oil pills to protect my health?</i>
 
 That’s the beauty and the challenge of systematic reviews. 
 
