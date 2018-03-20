@@ -5,6 +5,8 @@
 
 ## Comparing treatments for Renal Artery Stenosis Continued
 
+<br>
+
 **Answer**: When researchers at CESH looked at the relevant articles, [the research showed](https://effectivehealthcare.ahrq.gov/topics/renal-update/research/) no difference between the outcomes for patients whose RAS was treated using medications alone versus those who underwent PTRAS as well.
 
 But this finding came with a lot of caveats. Some of the existing research had major problems such as relatively small sample sizes or participants who didn’t match the type of RAS patients doctors are likely to see in their offices. In particular, there were very few studies that examined which types of patients could most benefit from PTRAS. In short, the body of evidence just wasn’t sufficient enough to draw any generalizable conclusions. So, the main findings from this systematic review were:

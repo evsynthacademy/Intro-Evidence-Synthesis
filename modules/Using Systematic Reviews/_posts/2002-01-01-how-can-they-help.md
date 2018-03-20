@@ -3,7 +3,7 @@
 ---
 
 
-## How can help Systematic Reviews help us make decisions?
+## How can Systematic Reviews help us make decisions?
 
 <br>
 

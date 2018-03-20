@@ -5,6 +5,7 @@
 
 ## Comparing treatments for Renal Artery Stenosis Continued
 
+<br>
 
 **Process**: CESH used a series of electronic databases to find studies related to renal artery stenosis, renal hypertension (high blood pressure due to kidney disease), and renal vascular disease (diseases of the kidney blood vessels). It also looked at abstracts and posters from academic conferences, and asked for citations from an expert panel and drug manufacturers to find the most up-to-date research. It then screened the materials, including only studies where researchers followed patients for at least 6 months.
 
