@@ -26,3 +26,4 @@ Check out our other courses,[ visit our website](https://www.brown.edu/academics
 - [The Cochrane Collaborative](http://www.cochrane.org/) is an international non-profit devoted to conducting systematic reviews and encouraging the use of evidence based medicine. 
 - [Prospero](https://www.crd.york.ac.uk/prospero/) is an international database of systematic reviews in health and social care, welfare, public health, education, crime, justice, and international development, where there is a health related outcome.
 
+It's time to move on to the next step of conducting a systematic review: <a href = "http://evsynthacademy.org/prepare-topic/">Prepare Your Topic</a>

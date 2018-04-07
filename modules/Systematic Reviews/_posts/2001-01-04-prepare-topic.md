@@ -14,6 +14,14 @@ Where do you check? Go to [PROSPERO](https://www.crd.york.ac.uk/prospero/), a re
 
 Then, craft a question that’s clear and specific enough to guide what kind of studies should and shouldn’t be included in your search.  
 
-There’s actually a specific technique for writing an effective research question called PICO(D). We’ll talk about that approach in another course. 
- 
+There’s actually a specific technique for writing an effective research question called PICO(D).
+
+Well-defined research questions include the followings elements:
+- Population
+- Interventions
+- Comparators
+- Outcomes
+- Design
+
+For more information about the PICO(D) approach, check out our <a href = "http://evsynthacademy.org/pico-d/">Developing Your Question</a> course.
 
