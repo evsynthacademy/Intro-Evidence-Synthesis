@@ -2,7 +2,7 @@
   title: "Analyze and Synthesize"
 ---
 
-##  Analyze and synthesize data
+##  Analyze and Synthesize Data
 
 <br>
 
