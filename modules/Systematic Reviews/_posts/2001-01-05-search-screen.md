@@ -2,7 +2,7 @@
   title: "Search and Screen"
 ---
 
-##  Search and screen studies
+##  Search and Screen Studies
 
 <br>
 
