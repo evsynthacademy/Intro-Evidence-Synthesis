@@ -2,7 +2,7 @@
   title: "Report your findings"
 ---
 
-## Report your findings
+## Report Your Findings
 
 <br>
 
