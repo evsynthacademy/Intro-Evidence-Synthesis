@@ -2,7 +2,7 @@
   title: "Prepare your Topic"
 ---
 
-## Prepare your topic
+## Prepare Your Topic
 
 <br>
 
