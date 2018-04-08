@@ -2,7 +2,7 @@
   title: "AHRQ Definition"
 ---
 
-## AHRQ's Defintion of Systematic Reviews
+## AHRQ's Definition of Systematic Reviews
 
 <br>
 
