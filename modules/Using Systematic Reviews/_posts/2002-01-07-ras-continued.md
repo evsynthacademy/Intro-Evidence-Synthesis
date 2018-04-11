@@ -20,6 +20,6 @@ CESH also reviewed 20 case reports of patients with extreme symptoms of renal ar
  
 Of the 15 comparative studies, 8 were non-randomized controlled studies and 7 were randomized controlled trials (the gold standard of research).
 
-Researchers included studies that only looked at one type of intervention because they were also interested in the long term outcomes and adverse events assocated with each type of treatment.
+Researchers included studies that only looked at one type of intervention because they were also interested in the long term outcomes and adverse events associated with each type of treatment.
 
 In this case, it wasn’t possible to use meta-analysis to combine data from the various studies because the study designs and the types of participants in each study weren’t similar enough. Instead, researchers looked at each study individually and described how their results compared to each other.
